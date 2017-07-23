@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorPrimaryLight">#BBDEFB</color>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorBackground">#E9EAED</color>
+
+    <!--Vote Colors-->
+    <color name="vote_perfect">#1b5e20</color>
+    <color name="vote_good">#4caf50</color>
+    <color name="vote_normal">#757575</color>
+    <color name="vote_bad">#f44336</color>
+</resources>
