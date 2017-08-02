@@ -36,6 +36,6 @@ A simple Android app, that helps user to discover movies.
 The app uses themoviedb.org API to get movie information and posters. You must provide your own [API key](https://www.themoviedb.org/documentation/api) in order to build the app.
 
 Just put your API key into `~/.gradle/gradle.properties` file (create the file if it does not exist already):
-```
+```gradle
 MyTheMovieDBApiToken="abcdefghijklmnopqrstuvwxyz"
 ```
