@@ -1,11 +1,13 @@
 package in.codingninjas.themoviedb.util;
 
+import in.codingninjas.themoviedb.BuildConfig;
+
 /**
  * Created by nsbhasin on 21/07/17.
  */
 
 public class Constants {
-    public static final String API_KEY = MY_API_KEY;
+    public static final String API_KEY = BuildConfig.THE_MOVIE_DB_API_KEY;
     public static String REQUEST_TOKEN = "";
     public static String SESSION_ID = "";
     public static final String MOVIE_POSTER_BASE_URL = "http://image.tmdb.org/t/p/";
